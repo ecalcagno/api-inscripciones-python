@@ -1,0 +1,13 @@
+# Entorno virtual local.
+# Puede recrearse a partir de requirements.txt.
+.venv/
+# Archivos temporales generados por Python.
+__pycache__/
+*.pyc
+*.pyo
+# Configuración local del editor.
+.vscode/
+# Archivo generado por macOS.
+.DS_Store
+# Variables de entorno y posibles datos sensibles.
+.env
