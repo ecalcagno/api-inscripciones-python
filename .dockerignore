@@ -1,0 +1,15 @@
+# Entorno virtual local: el contenedor instalará sus dependencias.
+.venv/
+# Archivos temporales generados por Python.
+__pycache__/
+*.pyc
+*.pyo
+# Información interna de Git.
+.git/
+.gitignore
+# Configuración local del editor.
+.vscode/
+# Archivos propios de macOS.
+.DS_Store
+# Variables de entorno y datos sensibles.
+.env
